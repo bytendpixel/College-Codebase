@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading 1</h1> 
+    <h2>Heading 2</h2> 
+    <h3>Heading 3</h3> 
+    <h4>Heading 4</h4> 
+    <h5>Heading 5</h5> 
+    <h6>Heading 6</h6> 
+    <p>Sample Paragraph Sample ParagraphSample ParagraphSample ParagraphSample ParagraphSample Paragraph
+        Sample ParagraphSample ParagraphSample ParagraphSample ParagraphSample ParagraphSample Paragraph
+        Sample ParagraphSample ParagraphSample ParagraphSample ParagraphSample ParagraphSample Paragraph</p>
+
+        <b><a href="https://www.google.com/"> Google </a><b>
+        <br>
+        <b><a href="https://www.facebook.com/"> Facebook </a><b>
+        <br>
+        <b><a href="/Hello.html"> Print Hello World</a></b>
+        <br>
+        <img src="/GOOGLE.png" alt="Notebook" height="100">
+
+        <img src="/FB.png" alt="FB Logo" height="100">
+        <br>
+        <b><a href="/Education.html"> Education </a><b>
+            <br>
+        <b><a href="/Experience.html"> Experience </a><b>
+            <br>
+        <b><a href="/Projects.html"> Projects </a><b>
+<body>      
+</html>
